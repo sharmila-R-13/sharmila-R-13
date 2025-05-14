@@ -37,7 +37,7 @@
 
 ### 🔹 Backend:
 <p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" href="https://www.w3schools.com/sql"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
