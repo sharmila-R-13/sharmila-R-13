@@ -9,16 +9,18 @@
 
 ## 💡 About Me
 
-- 🔭 I’m currently working as a Full Stack .NET Developer (https://www.techative.in)
-- 🌱 I’m sharpening my skills in **.NET Core, C#, SQL, HTML, CSS and JavaScript**
+- 🔭 I’m currently working as a Full Stack .NET Developer at Techative Solutions Private Limited (https://www.techative.in)
+- 🌱 I’m continuously enhancing my skills in **.NET Core, C#, SQL Server, HTML, CSS, and JavaScript**
 - 💬 Ask me about:
   - HTML / CSS
-  - JavaScript, React
+  - JavaScript, React , Angular
   - ASP.NET MVC / Web API
   - C#
-  - SQL Server 
+  - SQL Server
+  -  Background Services
+  -  SAP Business One, SAP B1 Service Layer, SSRS (SQL Server Reporting Services), SAP B1 UI API Add-On 
 - 📫 Reach me at: **sharmi8532@gmail.com**
-- 💼 [View my Resume](https://drive.google.com/file/d/18casHRbpfdW0KGguRRrk648NqdL-eF3m/view?usp=drive_link) <!-- Replace with actual link -->
+- 💼 [View my Resume](https://drive.google.com/file/d/1PwxmD-RQlzm57CBV2ARCgxaJ1UWVoXEi/view)
 - 🚀 [Check out my Projects](https://github.com/sharmila-R-13?tab=repositories)
 
 ---
