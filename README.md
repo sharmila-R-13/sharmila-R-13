@@ -51,19 +51,19 @@
 ### 🔹 Backend
 
 <p>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
   </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
+  <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/aspnet/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
+  <a href="https://www.w3schools.com/sql/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   </a>
 </p>
@@ -73,19 +73,19 @@
 ### 🔸 Frontend
 
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   </a>
-  <a href="https://angular.io/" target="_blank">
+  <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
   </a>
-  <a href="https://react.dev/" target="_blank">
+  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   </a>
 </p>
@@ -95,10 +95,10 @@
 ### 🗄️ Database & ERP
 
 <p>
-  <a href="https://www.sap.com/products/technology-platform/hana.html" target="_blank">
+  <a href="https://www.sap.com/products/technology-platform/hana.html" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white" />
   </a>
-  <a href="https://www.sap.com/products/business-one.html" target="_blank">
+  <a href="https://www.sap.com/products/business-one.html" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white" />
   </a>
 </p>
@@ -108,28 +108,19 @@
 ### ⚙️ Tools & Technologies
 
 <p>
-  <a href="https://learn.microsoft.com/en-us/sql/reporting-services/" target="_blank">
+  <a href="https://learn.microsoft.com/en-us/sql/reporting-services/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SSRS-CC2927?logo=microsoft&logoColor=white" />
   </a>
-  <a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
+  <a href="https://visualstudio.microsoft.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🚀 Key Highlights
-
-* ✔️ Built **2+ full-stack web applications** from scratch
-* ✔️ Developed **10+ enterprise services** (Email, SMS, automation systems)
-* ✔️ Experience in **SAP Business One integrations & add-on development**
-* ✔️ Strong focus on **performance optimization & scalable architecture**
 
 ---
 
