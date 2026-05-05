@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" href="https://www.w3schools.com/sql" />
 </p>
 
 ### 🔸 Frontend
