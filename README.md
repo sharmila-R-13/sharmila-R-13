@@ -22,11 +22,11 @@
 * Background Services & Scheduled Jobs
 * SAP Business One (Service Layer, UI API, Add-ons, SSRS)
 
-📫 **Email:** [sharmi8532@gmail.com](mailto:sharmi8532@gmail.com)
+📫 **Email:** <a href="mailto:sharmi8532@gmail.com">sharmi8532@gmail.com</a>
 
-💼 **Resume:** https://drive.google.com/file/d/1PwxmD-RQlzm57CBV2ARCgxaJ1UWVoXEi/view
+💼 **Resume:** <a href="https://drive.google.com/file/d/1PwxmD-RQlzm57CBV2ARCgxaJ1UWVoXEi/view" target="_blank">View Resume</a>
 
-🚀 **Projects:** https://github.com/sharmila-R-13?tab=repositories
+🚀 **Projects:** <a href="https://github.com/sharmila-R-13?tab=repositories" target="_blank">GitHub Projects</a>
 
 ---
 
@@ -36,10 +36,10 @@
   <a href="https://www.linkedin.com/in/r-sharmila" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sharmi8532@gmail.com">
+  <a href="mailto:sharmi8532@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/sharmila-R-13">
+  <a href="https://github.com/sharmila-R-13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
   </a>
 </p>
@@ -47,6 +47,7 @@
 ---
 
 ## 🛠️ Tech Stack
+
 ### 🔹 Backend
 
 <p>
@@ -62,7 +63,7 @@
   <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank">
     <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/sql/" target="blank">
+  <a href="https://www.w3schools.com/sql/" target="_blank">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   </a>
 </p>
@@ -135,5 +136,3 @@
 ## ✨ Fun Fact
 
 💡 I enjoy solving real-world business problems by building efficient and scalable applications.
-
----
