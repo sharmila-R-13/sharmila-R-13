@@ -62,7 +62,7 @@
   <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank">
     <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
+  <a href="https://www.w3schools.com/sql/" target="blank">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   </a>
 </p>
