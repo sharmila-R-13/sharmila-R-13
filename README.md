@@ -22,9 +22,11 @@
 * Background Services & Scheduled Jobs
 * SAP Business One (Service Layer, UI API, Add-ons, SSRS)
 
-- 📫 **Email:** [sharmi8532@gmail.com](mailto:sharmi8532@gmail.com)
-- 💼 **Resume:** https://drive.google.com/file/d/1PwxmD-RQlzm57CBV2ARCgxaJ1UWVoXEi/view
-- 🚀  **Projects:** https://github.com/sharmila-R-13?tab=repositories
+📫 **Email:** [sharmi8532@gmail.com](mailto:sharmi8532@gmail.com)
+
+💼 **Resume:** https://drive.google.com/file/d/1PwxmD-RQlzm57CBV2ARCgxaJ1UWVoXEi/view
+
+🚀 **Projects:** https://github.com/sharmila-R-13?tab=repositories
 
 ---
 
