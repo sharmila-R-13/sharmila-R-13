@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-* 🔭 I’m currently working as a **Full Stack .NET Developer** at Techative Solutions Private Limited
+* 🔭 I’m currently working as a **Full Stack .NET Developer** at Techative Solutions Private Limited (https://www.techative.in)
 * 💼 I have **1.5+ years of experience** building enterprise web applications, backend services, and SAP Business One add-ons
 * 🌱 I’m continuously enhancing my skills in **.NET Core, C#, SQL Server, HTML, CSS, and JavaScript**
 
@@ -90,47 +90,6 @@
 * ✔️ Developed **10+ enterprise services** (Email, SMS, automation systems)
 * ✔️ Experience in **SAP Business One integrations & add-on development**
 * ✔️ Strong focus on **performance optimization & scalable architecture**
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Capex Opex Management System
-
-* Built using ASP.NET MVC & .NET Framework
-* Integrated with SAP Business One (HANA)
-* Handles approvals, vendor quotations, and budget tracking
-* Role-based workflows & service-layer integration
-
-### 🔹 Ticketing & Project Management System
-
-* Developed using ASP.NET Web Forms
-* Features ticketing, project tracking, and timesheets
-* Includes reporting dashboards & role-based access
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmila-R-13&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharmila-R-13&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmila-R-13&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
