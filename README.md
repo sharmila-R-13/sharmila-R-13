@@ -47,41 +47,78 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### 🔹 Backend
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" href="https://www.w3schools.com/sql" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/" target="_blank">
+    <img src="https://img.shields.io/badge/ASP.NET-5C2D91?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank">
+    <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ### 🔸 Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  </a>
 </p>
+
+---
 
 ### 🗄️ Database & ERP
 
 <p>
-  <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white" />
+  <a href="https://www.sap.com/products/technology-platform/hana.html" target="_blank">
+    <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white" />
+  </a>
+  <a href="https://www.sap.com/products/business-one.html" target="_blank">
+    <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ### ⚙️ Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/SSRS-CC2927?logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" />
+  <a href="https://learn.microsoft.com/en-us/sql/reporting-services/" target="_blank">
+    <img src="https://img.shields.io/badge/SSRS-CC2927?logo=microsoft&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" />
+  </a>
 </p>
 
 ---
