@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharmila R</h1>
-<h3 align="center">Junior Full Stack .NET Developer | Building Scalable Enterprise Applications</h3>
+<h3 align="center">Full Stack .NET Developer | Associate Technical Consultant | SAP Business One Specialist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
@@ -9,24 +9,39 @@
 
 ## 💡 About Me
 
-* 🔭 I’m currently working as a **Full Stack .NET Developer** at Techative Solutions Private Limited (https://www.techative.in)
-* 💼 I have **1.5+ years of experience** building enterprise web applications, backend services, and SAP Business One add-ons
-* 🌱 I’m continuously enhancing my skills in **.NET Core, C#, SQL Server, HTML, CSS, and JavaScript**
+* 🔭 Currently working as an **Associate Technical Consultant / Full Stack .NET Developer** at [Techative Solutions Private Limited](https://www.techative.in)
+* 💼 **2+ years of experience** building enterprise web applications, backend services, and SAP Business One add-ons
+* 🔧 Specialized in **SAP Business One integrations** — Service Layer, UI API, Add-ons, and SSRS reporting, alongside full-stack .NET development
+* 🌱 Continuously enhancing my skills in **.NET Core, C#, SQL Server, HTML, CSS, JavaScript, and Angular**
+* 🎓 B.E. in Computer Science, Kangeyam Institute of Technology (2021 – 2025)
 
 ### 💬 Ask me about:
 
-* ASP.NET MVC / Web API
-* C#, .NET Core
-* JavaScript, Angular, React
+* ASP.NET MVC / Web Forms / Web API
+* C#, .NET Core, .NET Framework
+* JavaScript, Angular
 * SQL Server & SAP HANA
 * Background Services & Scheduled Jobs
 * SAP Business One (Service Layer, UI API, Add-ons, SSRS)
 
 📫 **Email:** <a href="mailto:sharmi8532@gmail.com">sharmi8532@gmail.com</a>
 
-💼 **Resume:** <a href="https://drive.google.com/file/d/1M9rRh8O0FuIMO4IWNJOox_JKQHP33vk7/view" target="_blank">View Resume</a>
+💼 **Resume:** <a href="#" target="_blank">View Resume</a> <!-- update this link once your resume is hosted -->
 
 🚀 **Projects:** <a href="https://github.com/sharmila-R-13?tab=repositories" target="_blank">GitHub Projects</a>
+
+---
+
+## 🚧 Featured Projects
+
+### 🧾 Capex Opex Management & Approval System
+Enterprise Capex/Opex management web application built using **ASP.NET MVC 5** and **.NET Framework 4.8**, integrated with **SAP Business One (HANA)** for handling expenditure requests, multi-level approvals, vendor quotations, and budget tracking with role-based workflows and Service Layer connectivity.
+
+### 🎫 Ticketing & Project Management System
+Internal ERP/CRM web application built using **ASP.NET Web Forms** and **.NET Framework 4.8** for managing support tickets, project tracking, and timesheets with role-based access and reporting dashboards.
+
+### ✈️ Flight Booking Site
+Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.app/)
 
 ---
 
@@ -84,9 +99,6 @@
   </a>
   <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
-  </a>
-  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   </a>
 </p>
 
