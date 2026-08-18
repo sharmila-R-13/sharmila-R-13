@@ -26,7 +26,7 @@
 
 📫 **Email:** <a href="mailto:sharmi8532@gmail.com">sharmi8532@gmail.com</a>
 
-💼 **Resume:** <a href="https://drive.google.com/file/d/1M9rRh8O0FuIMO4IWNJOox_JKQHP33vk7/view" target="_blank">View Resume</a> <!-- update this link once your resume is hosted -->
+💼 **Resume:** <a href="https://drive.google.com/file/d/1M9rRh8O0FuIMO4IWNJOox_JKQHP33vk7/view" target="_blank">View Resume</a>
 
 🚀 **Projects:** <a href="https://github.com/sharmila-R-13?tab=repositories" target="_blank">GitHub Projects</a>
 
