@@ -148,7 +148,7 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
 - ✅ SQL (Basic/Intermediate)
 - ✅ C# (Basic)
 -->
----
-## ✨ Fun Fact
+
+✨ Fun Fact
 
 💡 I enjoy solving real-world business problems by building efficient and scalable applications.
