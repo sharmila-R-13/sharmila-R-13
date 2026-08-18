@@ -30,6 +30,8 @@
 
 🚀 **Projects:** <a href="https://github.com/sharmila-R-13?tab=repositories" target="_blank">GitHub Projects</a>
 
+🏆 **HackerRank:** <a href="https://www.hackerrank.com/profile/Sharmila__R" target="_blank">View Profile</a>
+
 ---
 
 ## 🚧 Featured Projects
@@ -135,7 +137,18 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
 </p>
 
 ---
-
+## 📊 HackerRank Stats
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/Sharmila__R" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Profile-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+<!-- If you've earned specific skill certifications on HackerRank, list them here, e.g.:
+- ✅ Problem Solving (Basic)
+- ✅ SQL (Basic/Intermediate)
+- ✅ C# (Basic)
+-->
+---
 ## ✨ Fun Fact
 
 💡 I enjoy solving real-world business problems by building efficient and scalable applications.
