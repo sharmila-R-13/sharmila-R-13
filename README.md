@@ -80,9 +80,6 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
   <a href="https://learn.microsoft.com/en-us/aspnet/web-api/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Web%20API-008080?logo=dotnet&logoColor=white" />
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -114,6 +111,9 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
   </a>
   <a href="https://www.sap.com/products/business-one.html" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white" />
+  </a>  
+  <a href="https://www.w3schools.com/sql/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   </a>
 </p>
 
