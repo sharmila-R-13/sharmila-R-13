@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-* 🔭 Currently working as an **Associate Technical Consultant / Full Stack .NET Developer** at [Techative Solutions Private Limited](https://www.techative.in)
+* 🔭 Currently working as an **Associate Technical Consultant / Full Stack .NET Developer** at <a href="https://www.techative.in" target="_blank">Techative Solutions Private Limited</a>
 * 💼 **2+ years of experience** building enterprise web applications, backend services, and SAP Business One add-ons
 * 🔧 Specialized in **SAP Business One integrations** — Service Layer, UI API, Add-ons, and SSRS reporting, alongside full-stack .NET development
 * 🌱 Continuously enhancing my skills in **.NET Core, C#, SQL Server, HTML, CSS, JavaScript, and Angular**
@@ -24,13 +24,15 @@
 * Background Services & Scheduled Jobs
 * SAP Business One (Service Layer, UI API, Add-ons, SSRS)
 
-📫 **Email:** <a href="mailto:sharmi8532@gmail.com">sharmi8532@gmail.com</a>
+📫 **Email:** <a href="mailto:sharmi8532@gmail.com" target="_blank">sharmi8532@gmail.com</a>
 
 💼 **Resume:** <a href="https://drive.google.com/file/d/1M9rRh8O0FuIMO4IWNJOox_JKQHP33vk7/view" target="_blank">View Resume</a>
 
 🚀 **Projects:** <a href="https://github.com/sharmila-R-13?tab=repositories" target="_blank">GitHub Projects</a>
 
 🏆 **HackerRank:** <a href="https://www.hackerrank.com/profile/Sharmila__R" target="_blank">View Profile</a>
+
+🧩 **LeetCode:** <a href="https://leetcode.com/u/Sharmila_Ravi/" target="_blank">View Profile</a>
 
 ---
 
@@ -43,7 +45,7 @@ Enterprise Capex/Opex management web application built using **ASP.NET MVC 5** a
 Internal ERP/CRM web application built using **ASP.NET Web Forms** and **.NET Framework 4.8** for managing support tickets, project tracking, and timesheets with role-based access and reporting dashboards.
 
 ### ✈️ Flight Booking Site
-Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.app/)
+Live project: <a href="https://flightbookingsite.netlify.app/" target="_blank">flightbookingsite.netlify.app</a>
 
 ---
 
@@ -58,6 +60,12 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
   </a>
   <a href="https://github.com/sharmila-R-13" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Sharmila__R" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Sharmila_Ravi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -111,7 +119,7 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
   </a>
   <a href="https://www.sap.com/products/business-one.html" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?logo=sap&logoColor=white" />
-  </a>  
+  </a>
   <a href="https://www.w3schools.com/sql/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
   </a>
@@ -137,18 +145,30 @@ Live project: [flightbookingsite.netlify.app](https://flightbookingsite.netlify.
 </p>
 
 ---
-## 📊 HackerRank Stats
+
+## 📊 Coding Profiles
+
 <p align="left">
   <a href="https://www.hackerrank.com/profile/Sharmila__R" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Profile-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View%20HackerRank%20Profile-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/u/Sharmila_Ravi/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+<!--<p align="left">
+  <img src="https://leetcode-stats-two-lyart.vercel.app/api?username=Sharmila_Ravi" alt="Sharmila's LeetCode Stats" />
+</p>
+
 <!-- If you've earned specific skill certifications on HackerRank, list them here, e.g.:
 - ✅ Problem Solving (Basic)
 - ✅ SQL (Basic/Intermediate)
 - ✅ C# (Basic)
 -->
 
-✨ Fun Fact
+---
+
+## ✨ Fun Fact
 
 💡 I enjoy solving real-world business problems by building efficient and scalable applications.
